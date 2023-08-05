@@ -1,0 +1,14 @@
+suma=2+2;
+resta= 4-2;
+producto=2*2;
+division=4/2;
+resto=5%3;
+potencia=2**2;
+div_entera=5//3;
+print('2+2=',suma,'\n',
+      '4-2=',resta,'\n',
+      '2x2=',producto,'\n',
+      '4/2=',division,'\n',
+      '5%3=',resto,'\n',
+      '2**2=',potencia,'\n',
+      '5//3=',div_entera);
